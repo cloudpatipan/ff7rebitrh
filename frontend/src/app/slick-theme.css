@@ -1,0 +1,8 @@
+.slick-slide {
+    transition: all 0.3s ease;
+}
+
+.slick-prev,
+.slick-next {
+    font-size: 30px;
+}
